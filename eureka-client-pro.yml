@@ -1,6 +1,4 @@
 config: hello world
 
-system:
-  superuser:
-    username: 15059482460
-    pwd: 123456
+system.superuser.username: 15059482460
+system.superuser.pwd: 123456
