@@ -1,3 +1,5 @@
+config: hello world
+
 system:
   superuser:
     username: 15059482460
